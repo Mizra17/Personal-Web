@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma Web Personal & Portafolio PWA",
+  "description": "Plataforma profesional para desarrollador con portafolio interactivo, galería de ideas, cotizador de proyectos, panel de administración completo y PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

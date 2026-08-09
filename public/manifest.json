@@ -1,0 +1,22 @@
+{
+  "name": "Portafolio y Plataforma Digital",
+  "short_name": "Portafolio",
+  "description": "Plataforma profesional de desarrollo web, aplicaciones móviles y soluciones digitales.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=192&h=192&fit=crop&crop=faces",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=512&h=512&fit=crop&crop=faces",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
